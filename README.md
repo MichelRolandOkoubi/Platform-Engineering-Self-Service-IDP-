@@ -1,6 +1,8 @@
 # Internal Developer Platform (IDP)
 # 🚀 IDP Platform — Internal Developer Platform
 
+#DEVOPS #INFRASTRUCTURE #CLOUD
+
 [![CI Rust](https://github.com/your-org/idp-platform/actions/workflows/ci-rust.yml/badge.svg)](https://github.com/your-org/idp-platform/actions/workflows/ci-rust.yml)
 [![CI Go](https://github.com/your-org/idp-platform/actions/workflows/ci-go.yml/badge.svg)](https://github.com/your-org/idp-platform/actions/workflows/ci-go.yml)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
